@@ -20,4 +20,4 @@ float main()
 		sroot = sqrt(sum);
 		printf("a = %f b = %f c = %f \n", a,b,c);
 		printf("\n The sqaure root of a + b + c is %f\n",sroot);
-	}
+}
